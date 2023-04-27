@@ -24,7 +24,7 @@ $ sudo apt install -y python3-colcon-common-extensions cmake
 
 The Datastream SDK libraries are required to be installed in the system. You can find them on [the official website](https://www.vicon.com/software/datastream-sdk/?section=downloads).
 
-This package is shipped with Datastream SDK 10.1 (the latest version at the time of writing). If you are running Linux x64 and you want to install this version, simply `cd` into the main project folder and issue the command
+This package is shipped with Datastream SDK 1.10 (the latest version at the time of writing). If you are running Linux x64 and you want to install this version, simply `cd` into the main project folder and issue the command
 ```
 $ ./install_libs.sh
 ```
